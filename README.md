@@ -8,6 +8,7 @@
 | Object Detection | mobilenetssd  | MIT             |
 | Object Detection | yolov8n_det   | AGPL-3.0        |
 | Pose Estimation  | yolov8n_pos   | AGPL-3.0        |
+| Pose Estimation  | yolov8n_pos_hand   | AGPL-3.0   |
 | Segmentation     | deeplabv3plus | MIT             |
 
 ## License

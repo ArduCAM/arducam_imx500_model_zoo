@@ -2,14 +2,14 @@
 
 ## Model
 
-| Task             | Model         | License         |
-| ---------------- | ------------- | -------------   |
-| Classification   | mobilenetv2   | Apache 2.0      |
-| Object Detection | mobilenetssd  | MIT             |
-| Object Detection | yolov8n_det   | AGPL-3.0        |
-| Pose Estimation  | yolov8n_pos   | AGPL-3.0        |
-| Pose Estimation  | yolov8n_pos_hand   | AGPL-3.0   |
-| Segmentation     | deeplabv3plus | MIT             |
+| Task             | Model              | License         | B0566         | B0565         | B0564
+| ---------------- | -------------      | -------------   | ------------- | ------------- | -------------
+| Classification   | mobilenetv2        | Apache 2.0      | ✅            |               |               
+| Object Detection | mobilenetssd       | MIT             | ✅            | ✅            | ✅            
+| Object Detection | yolov8n_det        | AGPL-3.0        | ✅            | ✅            | ✅            
+| Pose Estimation  | yolov8n_pos        | AGPL-3.0        | ✅            |               |               
+| Pose Estimation  | yolov8n_pos_hand   | AGPL-3.0        | ✅            |               |               
+| Segmentation     | deeplabv3plus      | MIT             | ✅            |               |               
 
 ## License
 
